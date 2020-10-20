@@ -27,7 +27,7 @@ j=7500;
 %% Dataset2: experiment B
 clear all;
 clc;
-load('data_ExpB.mat');
+load('data_expB.mat');
 measurements = table2array(cam2i0);
 j = 1250;
 
