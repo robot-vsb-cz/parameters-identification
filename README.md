@@ -9,6 +9,6 @@ This repository is an attachment for the paper Camera Based Method for Identific
 > doi, Optical Method for Identification of the Layout of a Robotic Workcell
 
 ### Instructions
-There are 2 scripts and 2 datasets included. The first step is to determine transformation matrix symbolically based on MDH parameters and to define its Jacobian for parameters that are going to be identified. Please use the script 1_symbolic_transform.m for this. 
+There are 2 scripts and 4 datasets included. The first step is to determine transformation matrix symbolically based on MDH parameters and to define its Jacobian for parameters that are going to be identified. Please use the script 1_symbolic_transform.m for this. 
 
-Once you obtain the Tbe transformation and J matrix, insert them in the 2_identification.m script. Provide your datasets.
+Once you obtain the Tbe transformation and J matrix, insert them in the 2_identification.m script and provide your datasets.
