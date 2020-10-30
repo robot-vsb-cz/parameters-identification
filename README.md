@@ -3,8 +3,8 @@
 ![Made for Matlab](https://img.shields.io/badge/made%20for-Matlab-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/robot-vsb-cz/parameters-identification) 
 [![DOI](https://img.shields.io/badge/doi-10.3390%2Fapp10217679-green)](https://doi.org/10.3390/app10217679)
-[![Open Access](https://img.shields.io/badge/doiOA-10.3390%2Fapp10217679-orange?style=social&logo=openaccess)](https://doi.org/10.3390/app10217679)
 ![GitHub](https://img.shields.io/github/license/robot-vsb-cz/parameters-identification)
+[![OA](https://img.shields.io/badge/OpenAccess-viaMDPI!?style=social&logo=open-access)](https://doi.org/10.3390/app10217679)
 
 This repository is an attachment for the paper Camera-Based Method for Identification of the Layout of a Robotic Workcell:
 > Link to the paper: [doi.org/10.3390/app10217679](https://doi.org/10.3390/app10217679)
