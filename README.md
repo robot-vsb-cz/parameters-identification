@@ -1,8 +1,8 @@
 ## Robot Parameters Indentification
 
 ![Made for Matlab](https://img.shields.io/badge/made%20for-Matlab-green)
-[![DOI](https://img.shields.io/badge/doi-10.3390%2Fapp10217679-green)](https://doi.org/10.3390/app10217679)
 ![GitHub last commit](https://img.shields.io/github/last-commit/robot-vsb-cz/parameters-identification) 
+[![DOI](https://img.shields.io/badge/doi-10.3390%2Fapp10217679-green)](https://doi.org/10.3390/app10217679)
 ![GitHub](https://img.shields.io/github/license/robot-vsb-cz/parameters-identification)
 
 This repository is an attachment for the paper Camera-Based Method for Identification of the Layout of a Robotic Workcell:
