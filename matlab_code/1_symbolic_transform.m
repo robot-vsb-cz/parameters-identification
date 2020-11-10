@@ -1,5 +1,7 @@
 %% Tranformation
-% This script calculates transformation matrix based on MDH
+% This script calculates transformation matrix based on MDH - Modified
+% Denavit-Hartenberg parameters. If you use classic DH parameters, you 
+% have to addapt these calculations
 % Use this script to define TbE and J matrices, which are later used in
 % "identification.m" script
 
