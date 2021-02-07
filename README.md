@@ -9,6 +9,7 @@ This repository is an attachment for the paper **Camera-Based Method for Identif
 
 ### Instructions
 ![Made for Matlab](https://img.shields.io/badge/made%20for-Matlab-green)
+
 There are 2 scripts and 5 datasets included for testing. The first step is to determine transformation matrix symbolically based on MDH parameters and to define its Jacobian for parameters that are going to be identified. Please use the script 1_symbolic_transform.m for this. 
 
 Once you obtain the Tbe transformation and J matrix, insert them in the 2_identification.m script and provide your datasets.
