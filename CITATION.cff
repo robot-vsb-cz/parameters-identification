@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Robot Parameters Indentification
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Huczala
+    affiliation: >-
+      VSB - Technical University of Ostrava,
+      Department of Robotics
+    orcid: 'https://orcid.org/0000-0002-7398-7825'
+url: "https://github.com/robot-vsb-cz/parameters-identification"
+date-released: 2017-02-07
+version: 1.2
+doi: 10.3390/app10217679
